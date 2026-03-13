@@ -1,5 +1,12 @@
 # Defense Command – Navy Project
 
+A defense themed website representing Airforce and Navy operations using HTML and CSS.
+
 ## Project Preview
 
-![Project Screenshot](Screenshot 2026-03-13 180652.png)
+![Defense Command Website](project-preview.png)
+
+## Technologies Used
+- HTML5
+- CSS3
+- Responsive Design
