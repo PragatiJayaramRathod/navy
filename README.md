@@ -1,6 +1,5 @@
 # Defense Command – Navy Project
-# Defense Command – Navy Project
 
 ## Project Preview
 
-![Project Screenshot](screenshot.png)
+![Project Screenshot](Screenshot 2026-03-13 180652.png)
