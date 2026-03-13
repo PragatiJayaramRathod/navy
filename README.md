@@ -4,7 +4,7 @@ A defense themed website representing Airforce and Navy operations using HTML an
 
 ## Project Preview
 
-![Defense Command Website](project-preview.png)
+![Defense Command Website](./Screenshot%202026-03-13%20180652.png)
 
 ## Technologies Used
 - HTML5
